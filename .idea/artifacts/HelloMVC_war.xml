@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HelloMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="AxSServer.war">
+      <element id="artifact" artifact-name="HelloMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
